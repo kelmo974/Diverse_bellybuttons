@@ -1,0 +1,28 @@
+body {
+    background-image: url("../Static/petri_dish.jpg"), linear-gradient(to right top, #343a40, #2b2c31, #211f22, #151314, #000000);
+    
+    background-color: #05131a;
+    font-size: 100px;
+
+    
+}
+.jumbotron {
+    background-image: url("../Static/beef.jpg"), linear-gradient(to right top, #1a74d5, #2b2c31, #211f22, #151314, #000000);
+    background-size: 100% 100%;
+    text-align: center;
+    
+  }
+
+h1 { 
+    font-style: italic ;
+    font-size: larger;
+    color: rgb(67, 2, 2);
+    font-size: 50px;
+    
+}
+
+
+div {
+    fill-opacity: 1;
+}
+
